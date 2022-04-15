@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TagHive</string>
+    <string name="Crypto">CRYPTO</string>
+    <string name="internet_connection_error">Please check internet connection</string>
+    <string name="current_buy_price">Current Buy Price</string>
+    <string name="buy">BUY</string>
+    <string name="sell">SELL</string>
+</resources>
